@@ -1,4 +1,5 @@
-# What are the common themes between "The Gulag Archipelago", "Man's Search for Meaning", and "Crime and Punishment".
+#### Corey Pyle
+What are the common themes between "The Gulag Archipelago", "Man's Search for Meaning", and "Crime and Punishment".
 
 #### ChatGPT
 "The Gulag Archipelago", "Man's Search for Meaning", and "Crime and Punishment" are all books that deal with heavy, often bleak themes. "The Gulag Archipelago" is a non-fiction work that documents the harsh realities of life in the Soviet Union's gulag system, a network of labor camps where political prisoners were often subjected to brutal conditions. "Man's Search for Meaning" is a psychological memoir written by Viktor Frankl, a Holocaust survivor, in which he discusses his experiences in concentration camps and his theories on the psychological importance of finding meaning in life, even in the face of suffering. "Crime and Punishment" is a novel by Fyodor Dostoevsky that explores the psychology of a young man who commits a crime and must deal with the consequences.
